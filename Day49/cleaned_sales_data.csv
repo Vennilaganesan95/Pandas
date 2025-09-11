@@ -1,0 +1,9 @@
+Product_ID,Product_Name,Category,Quantity,Price,Total_Sales,Location,Date_Of_Purchase,Payment_Method
+101.0,Shirt,Clothing,2,500.0,1000.0,New York,2023-01-15,Cash
+103.0,Shoes,Footwear,3,2500.0,7500.0,Chicago,2023-01-15,Credit
+110.0,Shoes,Footwear,3,2600.0,7800.0,New York,2023-01-15,Debit
+102.0,Laptop,Electronics,1,45000.0,45000.0,New York,2023-01-16,Cash
+106.0,Bag,Accessories,1,2000.0,2000.0,Chicago,2023-01-20,Debitt
+107.0,TV,Electronics,1,40000.0,40000.0,San Francisco,2023-01-21,Credit
+108.0,Shirt,Clothing,2,550.0,1100.0,Chicago,2023-01-22,Cash
+109.0,Laptop,Electronics,1,42500.0,45000.0,New York,2023-01-23,cash
