@@ -1,0 +1,11 @@
+OrderID,CustomerID,Product,Category,Price,Quantity,Date_of_Purchase
+1,101,Smartphone,Electronics,500,2,2025-01-05
+2,102,Laptop,Electronics,1200,1,2025-01-06
+3,103,Apples,Groceries,3,10,2025-01-07
+4,104,Milk,Groceries,2,5,2025-01-08
+5,105,Headphones,Electronics,150,3,2025-01-09
+6,106,Bread,Groceries,2,8,2025-01-10
+7,107,Keyboard,Electronics,80,2,2025-01-11
+8,108,Orange Juice,Groceries,4,6,2025-01-12
+9,109,Monitor,Electronics,300,1,2025-01-13
+10,110,Cereal,Groceries,5,4,2025-01-14

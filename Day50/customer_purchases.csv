@@ -1,0 +1,101 @@
+Customer_ID,Product,Region,Price,Quantity,Date_of_Purchase,Category
+CUST007,Headphones,Texas,516,2,2023-01-01,Electronics
+CUST020,Rice,Chicago,21,2,2023-01-02,Groceries
+CUST015,Bread,Texas,176,1,2023-01-03,Groceries
+CUST011,Headphones,Chicago,224,4,2023-01-04,Electronics
+CUST008,Laptop,Los Angeles,162,2,2023-01-05,Electronics
+CUST007,Headphones,Chicago,481,2,2023-01-06,Electronics
+CUST019,Milk,Chicago,50,3,2023-01-07,Groceries
+CUST011,Headphones,Texas,377,2,2023-01-08,Electronics
+CUST011,Laptop,Texas,522,3,2023-01-09,Electronics
+CUST004,Milk,New York,103,4,2023-01-10,Groceries
+CUST008,Banana,New York,896,1,2023-01-11,Groceries
+CUST003,Eggs,Los Angeles,749,1,2023-01-12,Groceries
+CUST002,Eggs,New York,41,4,2023-01-13,Groceries
+CUST012,Apple,Chicago,284,1,2023-01-14,Groceries
+CUST006,Banana,Texas,353,4,2023-01-15,Groceries
+CUST002,Banana,New York,501,4,2023-01-16,Groceries
+CUST001,Headphones,New York,306,4,2023-01-17,Electronics
+CUST012,Eggs,Los Angeles,185,1,2023-01-18,Groceries
+CUST012,Laptop,Nebraska,611,3,2023-01-19,Electronics
+CUST017,TV,Los Angeles,103,4,2023-01-20,Electronics
+CUST010,TV,Chicago,704,2,2023-01-21,Electronics
+CUST016,Milk,Texas,997,1,2023-01-22,Groceries
+CUST015,Eggs,Los Angeles,120,4,2023-01-23,Groceries
+CUST015,Eggs,New York,195,4,2023-01-24,Groceries
+CUST019,TV,Texas,257,2,2023-01-25,Electronics
+CUST012,Eggs,Texas,985,3,2023-01-26,Groceries
+CUST020,Headphones,New York,932,3,2023-01-27,Electronics
+CUST003,Bread,Los Angeles,987,3,2023-01-28,Groceries
+CUST005,Smartphone,New York,165,4,2023-01-29,Electronics
+CUST019,Banana,Nebraska,260,4,2023-01-30,Groceries
+CUST007,Apple,Texas,327,4,2023-01-31,Groceries
+CUST009,Milk,Iowa,132,1,2023-02-01,Groceries
+CUST007,Bread,Iowa,22,2,2023-02-02,Groceries
+CUST018,TV,Chicago,797,4,2023-02-03,Electronics
+CUST004,Banana,New York,739,2,2023-02-04,Groceries
+CUST014,Eggs,New York,570,2,2023-02-05,Groceries
+CUST018,Apple,Chicago,574,3,2023-02-06,Groceries
+CUST009,Eggs,Chicago,327,1,2023-02-07,Groceries
+CUST002,Laptop,Chicago,876,4,2023-02-08,Electronics
+CUST020,Laptop,Texas,690,3,2023-02-09,Electronics
+CUST015,Apple,Nebraska,796,3,2023-02-10,Groceries
+CUST007,Apple,New York,630,4,2023-02-11,Groceries
+CUST012,TV,Texas,292,2,2023-02-12,Electronics
+CUST008,Apple,Chicago,947,3,2023-02-13,Groceries
+CUST015,Headphones,New York,858,2,2023-02-14,Electronics
+CUST003,Eggs,Texas,667,1,2023-02-15,Groceries
+CUST014,Bread,Nebraska,966,2,2023-02-16,Groceries
+CUST017,Rice,Texas,643,1,2023-02-17,Groceries
+CUST004,Apple,Nebraska,159,2,2023-02-18,Groceries
+CUST018,Milk,Chicago,494,3,2023-02-19,Groceries
+CUST008,Laptop,Nebraska,390,3,2023-02-20,Electronics
+CUST004,Headphones,New York,990,1,2023-02-21,Electronics
+CUST002,Banana,Chicago,789,4,2023-02-22,Groceries
+CUST006,Rice,New York,108,1,2023-02-23,Groceries
+CUST010,Bread,Iowa,933,1,2023-02-24,Groceries
+CUST004,Rice,Los Angeles,397,2,2023-02-25,Groceries
+CUST018,Apple,Nebraska,815,2,2023-02-26,Groceries
+CUST012,TV,Los Angeles,250,1,2023-02-27,Electronics
+CUST002,Laptop,Los Angeles,180,3,2023-02-28,Electronics
+CUST010,Laptop,Nebraska,43,2,2023-03-01,Electronics
+CUST004,Banana,Chicago,481,4,2023-03-02,Groceries
+CUST014,TV,Iowa,686,2,2023-03-03,Electronics
+CUST016,Eggs,New York,763,2,2023-03-04,Groceries
+CUST015,Smartphone,Texas,542,4,2023-03-05,Electronics
+CUST008,Headphones,New York,871,1,2023-03-06,Electronics
+CUST014,Laptop,Texas,822,4,2023-03-07,Electronics
+CUST008,Milk,New York,925,1,2023-03-08,Groceries
+CUST016,Laptop,Nebraska,412,1,2023-03-09,Electronics
+CUST013,Rice,Iowa,529,1,2023-03-10,Groceries
+CUST018,Laptop,Texas,832,4,2023-03-11,Electronics
+CUST015,Laptop,Chicago,510,1,2023-03-12,Electronics
+CUST013,Smartphone,New York,907,3,2023-03-13,Electronics
+CUST009,Smartphone,New York,829,4,2023-03-14,Electronics
+CUST015,Bread,Texas,40,3,2023-03-15,Groceries
+CUST013,Eggs,Chicago,689,1,2023-03-16,Groceries
+CUST001,Milk,Chicago,24,2,2023-03-17,Groceries
+CUST007,Laptop,Nebraska,325,1,2023-03-18,Electronics
+CUST009,Laptop,Nebraska,780,3,2023-03-19,Electronics
+CUST001,Headphones,Nebraska,516,3,2023-03-20,Electronics
+CUST012,Smartphone,Nebraska,404,4,2023-03-21,Electronics
+CUST008,Milk,Nebraska,658,2,2023-03-22,Groceries
+CUST011,Banana,Nebraska,976,4,2023-03-23,Groceries
+CUST019,Bread,Iowa,887,3,2023-03-24,Groceries
+CUST017,Eggs,Chicago,475,1,2023-03-25,Groceries
+CUST008,TV,Nebraska,147,2,2023-03-26,Electronics
+CUST003,Eggs,Chicago,96,1,2023-03-27,Groceries
+CUST003,Rice,Chicago,358,1,2023-03-28,Groceries
+CUST001,Laptop,Los Angeles,838,2,2023-03-29,Electronics
+CUST005,Bread,Iowa,804,4,2023-03-30,Groceries
+CUST010,Rice,Nebraska,731,1,2023-03-31,Groceries
+CUST007,Milk,New York,963,3,2023-04-01,Groceries
+CUST009,TV,Texas,858,1,2023-04-02,Electronics
+CUST007,Smartphone,New York,55,2,2023-04-03,Electronics
+CUST009,Bread,Iowa,669,2,2023-04-04,Groceries
+CUST008,Bread,Texas,702,2,2023-04-05,Groceries
+CUST012,Laptop,Iowa,579,4,2023-04-06,Electronics
+CUST002,Apple,Chicago,194,1,2023-04-07,Groceries
+CUST001,Bread,Texas,129,4,2023-04-08,Groceries
+CUST016,Headphones,Chicago,154,4,2023-04-09,Electronics
+CUST005,TV,New York,318,2,2023-04-10,Electronics

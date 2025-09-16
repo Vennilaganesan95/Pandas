@@ -1,0 +1,6 @@
+CustomerID,Name,Email,Location
+101,Alice,alice@example.com,New York
+102,Bob,bob@example.com,Los Angeles
+103,Charlie,charlie@example.com,Chicago
+104,David,david@example.com,Houston
+105,Eva,eva@example.com,Phoenix

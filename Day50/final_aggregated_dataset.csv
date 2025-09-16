@@ -1,0 +1,101 @@
+Customer_ID,Product,Region,Price,Quantity,Date_of_Purchase,Category,Discounted_Price,Region_Type,Total_Revenue
+CUST007,Headphones,Texas,516,2,2023-01-01,Electronics,464.40000000000003,Rural,928.8000000000001
+CUST020,Rice,Chicago,21,2,2023-01-02,Groceries,19.95,Urban,39.9
+CUST015,Bread,Texas,176,1,2023-01-03,Groceries,167.2,Rural,167.2
+CUST011,Headphones,Chicago,224,4,2023-01-04,Electronics,201.6,Urban,806.4
+CUST008,Laptop,Los Angeles,162,2,2023-01-05,Electronics,145.8,Urban,291.6
+CUST007,Headphones,Chicago,481,2,2023-01-06,Electronics,432.90000000000003,Urban,865.8000000000001
+CUST019,Milk,Chicago,50,3,2023-01-07,Groceries,47.5,Urban,142.5
+CUST011,Headphones,Texas,377,2,2023-01-08,Electronics,339.3,Rural,678.6
+CUST011,Laptop,Texas,522,3,2023-01-09,Electronics,469.8,Rural,1409.4
+CUST004,Milk,New York,103,4,2023-01-10,Groceries,97.85,Urban,391.4
+CUST008,Banana,New York,896,1,2023-01-11,Groceries,851.1999999999999,Urban,851.1999999999999
+CUST003,Eggs,Los Angeles,749,1,2023-01-12,Groceries,711.55,Urban,711.55
+CUST002,Eggs,New York,41,4,2023-01-13,Groceries,38.949999999999996,Urban,155.79999999999998
+CUST012,Apple,Chicago,284,1,2023-01-14,Groceries,269.8,Urban,269.8
+CUST006,Banana,Texas,353,4,2023-01-15,Groceries,335.34999999999997,Rural,1341.3999999999999
+CUST002,Banana,New York,501,4,2023-01-16,Groceries,475.95,Urban,1903.8
+CUST001,Headphones,New York,306,4,2023-01-17,Electronics,275.40000000000003,Urban,1101.6000000000001
+CUST012,Eggs,Los Angeles,185,1,2023-01-18,Groceries,175.75,Urban,175.75
+CUST012,Laptop,Nebraska,611,3,2023-01-19,Electronics,549.9,Rural,1649.6999999999998
+CUST017,TV,Los Angeles,103,4,2023-01-20,Electronics,92.7,Urban,370.8
+CUST010,TV,Chicago,704,2,2023-01-21,Electronics,633.6,Urban,1267.2
+CUST016,Milk,Texas,997,1,2023-01-22,Groceries,947.15,Rural,947.15
+CUST015,Eggs,Los Angeles,120,4,2023-01-23,Groceries,114.0,Urban,456.0
+CUST015,Eggs,New York,195,4,2023-01-24,Groceries,185.25,Urban,741.0
+CUST019,TV,Texas,257,2,2023-01-25,Electronics,231.3,Rural,462.6
+CUST012,Eggs,Texas,985,3,2023-01-26,Groceries,935.75,Rural,2807.25
+CUST020,Headphones,New York,932,3,2023-01-27,Electronics,838.8000000000001,Urban,2516.4
+CUST003,Bread,Los Angeles,987,3,2023-01-28,Groceries,937.65,Urban,2812.95
+CUST005,Smartphone,New York,165,4,2023-01-29,Electronics,148.5,Urban,594.0
+CUST019,Banana,Nebraska,260,4,2023-01-30,Groceries,247.0,Rural,988.0
+CUST007,Apple,Texas,327,4,2023-01-31,Groceries,310.65,Rural,1242.6
+CUST009,Milk,Iowa,132,1,2023-02-01,Groceries,125.39999999999999,Rural,125.39999999999999
+CUST007,Bread,Iowa,22,2,2023-02-02,Groceries,20.9,Rural,41.8
+CUST018,TV,Chicago,797,4,2023-02-03,Electronics,717.3000000000001,Urban,2869.2000000000003
+CUST004,Banana,New York,739,2,2023-02-04,Groceries,702.05,Urban,1404.1
+CUST014,Eggs,New York,570,2,2023-02-05,Groceries,541.5,Urban,1083.0
+CUST018,Apple,Chicago,574,3,2023-02-06,Groceries,545.3,Urban,1635.8999999999999
+CUST009,Eggs,Chicago,327,1,2023-02-07,Groceries,310.65,Urban,310.65
+CUST002,Laptop,Chicago,876,4,2023-02-08,Electronics,788.4,Urban,3153.6
+CUST020,Laptop,Texas,690,3,2023-02-09,Electronics,621.0,Rural,1863.0
+CUST015,Apple,Nebraska,796,3,2023-02-10,Groceries,756.1999999999999,Rural,2268.6
+CUST007,Apple,New York,630,4,2023-02-11,Groceries,598.5,Urban,2394.0
+CUST012,TV,Texas,292,2,2023-02-12,Electronics,262.8,Rural,525.6
+CUST008,Apple,Chicago,947,3,2023-02-13,Groceries,899.65,Urban,2698.95
+CUST015,Headphones,New York,858,2,2023-02-14,Electronics,772.2,Urban,1544.4
+CUST003,Eggs,Texas,667,1,2023-02-15,Groceries,633.65,Rural,633.65
+CUST014,Bread,Nebraska,966,2,2023-02-16,Groceries,917.6999999999999,Rural,1835.3999999999999
+CUST017,Rice,Texas,643,1,2023-02-17,Groceries,610.85,Rural,610.85
+CUST004,Apple,Nebraska,159,2,2023-02-18,Groceries,151.04999999999998,Rural,302.09999999999997
+CUST018,Milk,Chicago,494,3,2023-02-19,Groceries,469.29999999999995,Urban,1407.8999999999999
+CUST008,Laptop,Nebraska,390,3,2023-02-20,Electronics,351.0,Rural,1053.0
+CUST004,Headphones,New York,990,1,2023-02-21,Electronics,891.0,Urban,891.0
+CUST002,Banana,Chicago,789,4,2023-02-22,Groceries,749.55,Urban,2998.2
+CUST006,Rice,New York,108,1,2023-02-23,Groceries,102.6,Urban,102.6
+CUST010,Bread,Iowa,933,1,2023-02-24,Groceries,886.3499999999999,Rural,886.3499999999999
+CUST004,Rice,Los Angeles,397,2,2023-02-25,Groceries,377.15,Urban,754.3
+CUST018,Apple,Nebraska,815,2,2023-02-26,Groceries,774.25,Rural,1548.5
+CUST012,TV,Los Angeles,250,1,2023-02-27,Electronics,225.0,Urban,225.0
+CUST002,Laptop,Los Angeles,180,3,2023-02-28,Electronics,162.0,Urban,486.0
+CUST010,Laptop,Nebraska,43,2,2023-03-01,Electronics,38.7,Rural,77.4
+CUST004,Banana,Chicago,481,4,2023-03-02,Groceries,456.95,Urban,1827.8
+CUST014,TV,Iowa,686,2,2023-03-03,Electronics,617.4,Rural,1234.8
+CUST016,Eggs,New York,763,2,2023-03-04,Groceries,724.85,Urban,1449.7
+CUST015,Smartphone,Texas,542,4,2023-03-05,Electronics,487.8,Rural,1951.2
+CUST008,Headphones,New York,871,1,2023-03-06,Electronics,783.9,Urban,783.9
+CUST014,Laptop,Texas,822,4,2023-03-07,Electronics,739.8000000000001,Rural,2959.2000000000003
+CUST008,Milk,New York,925,1,2023-03-08,Groceries,878.75,Urban,878.75
+CUST016,Laptop,Nebraska,412,1,2023-03-09,Electronics,370.8,Rural,370.8
+CUST013,Rice,Iowa,529,1,2023-03-10,Groceries,502.54999999999995,Rural,502.54999999999995
+CUST018,Laptop,Texas,832,4,2023-03-11,Electronics,748.8000000000001,Rural,2995.2000000000003
+CUST015,Laptop,Chicago,510,1,2023-03-12,Electronics,459.0,Urban,459.0
+CUST013,Smartphone,New York,907,3,2023-03-13,Electronics,816.3000000000001,Urban,2448.9
+CUST009,Smartphone,New York,829,4,2023-03-14,Electronics,746.1,Urban,2984.4
+CUST015,Bread,Texas,40,3,2023-03-15,Groceries,38.0,Rural,114.0
+CUST013,Eggs,Chicago,689,1,2023-03-16,Groceries,654.55,Urban,654.55
+CUST001,Milk,Chicago,24,2,2023-03-17,Groceries,22.799999999999997,Urban,45.599999999999994
+CUST007,Laptop,Nebraska,325,1,2023-03-18,Electronics,292.5,Rural,292.5
+CUST009,Laptop,Nebraska,780,3,2023-03-19,Electronics,702.0,Rural,2106.0
+CUST001,Headphones,Nebraska,516,3,2023-03-20,Electronics,464.40000000000003,Rural,1393.2
+CUST012,Smartphone,Nebraska,404,4,2023-03-21,Electronics,363.6,Rural,1454.4
+CUST008,Milk,Nebraska,658,2,2023-03-22,Groceries,625.1,Rural,1250.2
+CUST011,Banana,Nebraska,976,4,2023-03-23,Groceries,927.1999999999999,Rural,3708.7999999999997
+CUST019,Bread,Iowa,887,3,2023-03-24,Groceries,842.65,Rural,2527.95
+CUST017,Eggs,Chicago,475,1,2023-03-25,Groceries,451.25,Urban,451.25
+CUST008,TV,Nebraska,147,2,2023-03-26,Electronics,132.3,Rural,264.6
+CUST003,Eggs,Chicago,96,1,2023-03-27,Groceries,91.19999999999999,Urban,91.19999999999999
+CUST003,Rice,Chicago,358,1,2023-03-28,Groceries,340.09999999999997,Urban,340.09999999999997
+CUST001,Laptop,Los Angeles,838,2,2023-03-29,Electronics,754.2,Urban,1508.4
+CUST005,Bread,Iowa,804,4,2023-03-30,Groceries,763.8,Rural,3055.2
+CUST010,Rice,Nebraska,731,1,2023-03-31,Groceries,694.4499999999999,Rural,694.4499999999999
+CUST007,Milk,New York,963,3,2023-04-01,Groceries,914.8499999999999,Urban,2744.5499999999997
+CUST009,TV,Texas,858,1,2023-04-02,Electronics,772.2,Rural,772.2
+CUST007,Smartphone,New York,55,2,2023-04-03,Electronics,49.5,Urban,99.0
+CUST009,Bread,Iowa,669,2,2023-04-04,Groceries,635.55,Rural,1271.1
+CUST008,Bread,Texas,702,2,2023-04-05,Groceries,666.9,Rural,1333.8
+CUST012,Laptop,Iowa,579,4,2023-04-06,Electronics,521.1,Rural,2084.4
+CUST002,Apple,Chicago,194,1,2023-04-07,Groceries,184.29999999999998,Urban,184.29999999999998
+CUST001,Bread,Texas,129,4,2023-04-08,Groceries,122.55,Rural,490.2
+CUST016,Headphones,Chicago,154,4,2023-04-09,Electronics,138.6,Urban,554.4
+CUST005,TV,New York,318,2,2023-04-10,Electronics,286.2,Urban,572.4

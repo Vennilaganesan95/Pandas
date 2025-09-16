@@ -1,0 +1,6 @@
+OrderID,Product,Category,Price,Quantity,Total_Revenue
+101,Laptop,Electronics,900,1,900
+104,Smartphone,Electronics,600,1,600
+102,Shoes,Fashion,120,2,240
+105,Jeans,Fashion,80,4,320
+103,Book,Books,30,3,90

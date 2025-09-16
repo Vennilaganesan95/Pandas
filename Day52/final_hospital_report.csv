@@ -1,0 +1,8 @@
+PatientID,DoctorID,Date,Prescription,Name,Age,Diagnosis,DoctorName,Specialization
+201,301,2025-01-05,Medicine A,Alice,30,Flu,Dr. Smith,General
+202,302,2025-01-06,Medicine B,Bob,45,Diabetes,Dr. Lee,Endocrinology
+203,303,2025-01-07,Medicine C,Charlie,25,Cold,Dr. Brown,Pediatrics
+204,304,2025-01-08,Medicine D,David,50,Hypertension,Dr. Taylor,Cardiology
+205,301,2025-01-09,Medicine E,Eva,40,Asthma,Dr. Smith,General
+201,304,2025-01-10,Medicine F,Alice,30,Flu,Dr. Taylor,Cardiology
+203,302,2025-01-11,Medicine G,Charlie,25,Cold,Dr. Lee,Endocrinology

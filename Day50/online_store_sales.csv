@@ -1,0 +1,101 @@
+Order_ID,Customer_ID,Product_Name,Quantity,Order_Amount,Purchase_Date,City,Category
+ORD0084,CUST019,Watch,3,594,2023-01-01,Houston,Fashion
+ORD0054,CUST017,Headphones,1,209,2023-01-02,New York,Electronics
+ORD0071,CUST008,Book,4,144,2023-01-03,Miami,Books
+ORD0046,CUST003,Jeans,4,169,2023-01-04,Miami,Fashion
+ORD0045,CUST003,Tablet,3,333,2023-01-05,San Francisco,Electronics
+ORD0040,CUST001,Watch,1,589,2023-01-06,Los Angeles,Fashion
+ORD0023,CUST027,T-shirt,3,361,2023-01-07,Los Angeles,Fashion
+ORD0081,CUST005,Laptop,1,324,2023-01-08,Miami,Electronics
+ORD0011,CUST010,Headphones,5,711,2023-01-09,San Francisco,Electronics
+ORD0001,CUST007,Backpack,2,701,2023-01-10,Houston,Fashion
+ORD0019,CUST026,Tablet,2,857,2023-01-11,Los Angeles,Electronics
+ORD0031,CUST009,Jeans,2,802,2023-01-12,Houston,Fashion
+ORD0074,CUST028,Tablet,3,73,2023-01-13,Los Angeles,Electronics
+ORD0034,CUST007,Watch,5,463,2023-01-14,Los Angeles,Fashion
+ORD0091,CUST009,Shoes,1,632,2023-01-15,Chicago,Fashion
+ORD0005,CUST008,Laptop,4,283,2023-01-16,Los Angeles,Electronics
+ORD0077,CUST012,Laptop,1,72,2023-01-17,New York,Electronics
+ORD0078,CUST002,Backpack,4,591,2023-01-18,San Francisco,Fashion
+ORD0013,CUST001,Shoes,1,639,2023-01-19,San Francisco,Fashion
+ORD0032,CUST016,Book,5,24,2023-01-20,Houston,Books
+ORD0056,CUST023,Smartphone,4,122,2023-01-21,Los Angeles,Electronics
+ORD0089,CUST023,Headphones,3,215,2023-01-22,New York,Electronics
+ORD0027,CUST030,Laptop,1,793,2023-01-23,Houston,Electronics
+ORD0043,CUST024,T-shirt,1,896,2023-01-24,Chicago,Fashion
+ORD0070,CUST005,Laptop,4,903,2023-01-25,Houston,Electronics
+ORD0016,CUST003,Tablet,3,369,2023-01-26,Houston,Electronics
+ORD0041,CUST012,Laptop,3,66,2023-01-27,Los Angeles,Electronics
+ORD0097,CUST008,Laptop,5,886,2023-01-28,Chicago,Electronics
+ORD0010,CUST022,Smartphone,3,842,2023-01-29,Houston,Electronics
+ORD0073,CUST027,Smartphone,3,955,2023-01-30,New York,Electronics
+ORD0012,CUST003,Jeans,3,839,2023-01-31,New York,Fashion
+ORD0048,CUST001,Book,2,675,2023-02-01,San Francisco,Books
+ORD0086,CUST003,T-shirt,5,288,2023-02-02,Chicago,Fashion
+ORD0029,CUST005,Laptop,1,389,2023-02-03,Chicago,Electronics
+ORD0094,CUST015,Laptop,4,655,2023-02-04,San Francisco,Electronics
+ORD0006,CUST014,Headphones,1,125,2023-02-05,Houston,Electronics
+ORD0067,CUST003,Smartphone,5,689,2023-02-06,Chicago,Electronics
+ORD0066,CUST001,T-shirt,4,678,2023-02-07,New York,Fashion
+ORD0036,CUST005,Backpack,5,676,2023-02-08,New York,Fashion
+ORD0017,CUST026,Jeans,3,139,2023-02-09,Los Angeles,Fashion
+ORD0050,CUST023,Book,4,850,2023-02-10,Chicago,Books
+ORD0035,CUST014,Shoes,3,806,2023-02-11,Houston,Fashion
+ORD0008,CUST007,Book,1,623,2023-02-12,San Francisco,Books
+ORD0096,CUST027,Tablet,1,77,2023-02-13,San Francisco,Electronics
+ORD0028,CUST009,Laptop,4,970,2023-02-14,Houston,Electronics
+ORD0020,CUST015,Jeans,4,365,2023-02-15,Miami,Fashion
+ORD0082,CUST015,Tablet,5,760,2023-02-16,Los Angeles,Electronics
+ORD0026,CUST026,T-shirt,5,493,2023-02-17,San Francisco,Fashion
+ORD0063,CUST010,Shoes,3,136,2023-02-18,Chicago,Fashion
+ORD0014,CUST028,Smartphone,4,849,2023-02-19,Los Angeles,Electronics
+ORD0025,CUST013,Jeans,1,810,2023-02-20,Chicago,Fashion
+ORD0004,CUST019,Jeans,5,146,2023-02-21,New York,Fashion
+ORD0018,CUST007,Laptop,5,412,2023-02-22,Los Angeles,Electronics
+ORD0039,CUST017,Watch,1,927,2023-02-23,San Francisco,Fashion
+ORD0009,CUST020,Jeans,5,660,2023-02-24,Los Angeles,Fashion
+ORD0079,CUST029,Headphones,3,77,2023-02-25,Los Angeles,Electronics
+ORD0007,CUST004,Shoes,4,653,2023-02-26,Los Angeles,Fashion
+ORD0065,CUST030,Shoes,1,532,2023-02-27,Miami,Fashion
+ORD0037,CUST005,Headphones,4,770,2023-02-28,Los Angeles,Electronics
+ORD0090,CUST023,Backpack,5,821,2023-03-01,Chicago,Fashion
+ORD0057,CUST007,Headphones,5,115,2023-03-02,New York,Electronics
+ORD0100,CUST013,Headphones,1,657,2023-03-03,Houston,Electronics
+ORD0055,CUST015,Shoes,3,137,2023-03-04,Los Angeles,Fashion
+ORD0044,CUST011,Book,2,579,2023-03-05,San Francisco,Books
+ORD0051,CUST029,Shoes,1,620,2023-03-06,Los Angeles,Fashion
+ORD0068,CUST004,Watch,2,507,2023-03-07,San Francisco,Fashion
+ORD0047,CUST013,Laptop,2,256,2023-03-08,Chicago,Electronics
+ORD0069,CUST007,Tablet,3,904,2023-03-09,San Francisco,Electronics
+ORD0062,CUST027,Book,2,916,2023-03-10,Houston,Books
+ORD0098,CUST019,Smartphone,2,291,2023-03-11,New York,Electronics
+ORD0080,CUST022,Tablet,3,208,2023-03-12,San Francisco,Electronics
+ORD0042,CUST028,Laptop,2,723,2023-03-13,San Francisco,Electronics
+ORD0059,CUST002,Watch,2,466,2023-03-14,New York,Fashion
+ORD0049,CUST010,Watch,2,600,2023-03-15,Houston,Fashion
+ORD0099,CUST013,Smartphone,1,809,2023-03-16,Los Angeles,Electronics
+ORD0058,CUST030,Book,1,880,2023-03-17,San Francisco,Books
+ORD0076,CUST025,Backpack,1,266,2023-03-18,New York,Fashion
+ORD0033,CUST021,Headphones,3,982,2023-03-19,Chicago,Electronics
+ORD0095,CUST006,Book,5,95,2023-03-20,New York,Books
+ORD0060,CUST028,Backpack,2,173,2023-03-21,Chicago,Fashion
+ORD0064,CUST028,Watch,2,675,2023-03-22,Houston,Fashion
+ORD0085,CUST012,Shoes,3,454,2023-03-23,Los Angeles,Fashion
+ORD0038,CUST012,Laptop,2,105,2023-03-24,New York,Electronics
+ORD0030,CUST020,Smartphone,1,716,2023-03-25,Miami,Electronics
+ORD0002,CUST030,Laptop,5,304,2023-03-26,San Francisco,Electronics
+ORD0053,CUST030,T-shirt,4,993,2023-03-27,Houston,Fashion
+ORD0022,CUST011,T-shirt,2,239,2023-03-28,New York,Fashion
+ORD0003,CUST026,Book,1,88,2023-03-29,San Francisco,Books
+ORD0024,CUST023,Watch,4,66,2023-03-30,New York,Fashion
+ORD0088,CUST028,Watch,5,113,2023-03-31,Chicago,Fashion
+ORD0092,CUST025,Headphones,4,769,2023-04-01,New York,Electronics
+ORD0075,CUST007,Headphones,1,977,2023-04-02,Miami,Electronics
+ORD0087,CUST030,Headphones,4,472,2023-04-03,New York,Electronics
+ORD0083,CUST001,Shoes,3,223,2023-04-04,New York,Fashion
+ORD0021,CUST001,Tablet,4,931,2023-04-05,Miami,Electronics
+ORD0061,CUST025,Jeans,2,237,2023-04-06,Houston,Fashion
+ORD0072,CUST027,Tablet,2,493,2023-04-07,New York,Electronics
+ORD0015,CUST030,Laptop,3,451,2023-04-08,Miami,Electronics
+ORD0093,CUST025,Tablet,1,360,2023-04-09,San Francisco,Electronics
+ORD0052,CUST020,Shoes,2,570,2023-04-10,Chicago,Fashion

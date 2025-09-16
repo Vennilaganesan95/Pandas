@@ -1,0 +1,72 @@
+[
+    {
+        "FeedbackID":1,
+        "CustomerID":101,
+        "Feedback":"Great product, very satisfied!",
+        "Rating":5,
+        "Date":1736035200000
+    },
+    {
+        "FeedbackID":2,
+        "CustomerID":102,
+        "Feedback":"Delivery was late, disappointed.",
+        "Rating":2,
+        "Date":1736121600000
+    },
+    {
+        "FeedbackID":3,
+        "CustomerID":103,
+        "Feedback":"Excellent customer support.",
+        "Rating":5,
+        "Date":1736208000000
+    },
+    {
+        "FeedbackID":4,
+        "CustomerID":104,
+        "Feedback":"Product quality not as expected.",
+        "Rating":3,
+        "Date":1736294400000
+    },
+    {
+        "FeedbackID":5,
+        "CustomerID":105,
+        "Feedback":"Fast shipping and good packaging.",
+        "Rating":4,
+        "Date":1736380800000
+    },
+    {
+        "FeedbackID":6,
+        "CustomerID":106,
+        "Feedback":"The item arrived damaged.",
+        "Rating":1,
+        "Date":1736467200000
+    },
+    {
+        "FeedbackID":7,
+        "CustomerID":107,
+        "Feedback":"Amazing experience!",
+        "Rating":5,
+        "Date":1736553600000
+    },
+    {
+        "FeedbackID":8,
+        "CustomerID":108,
+        "Feedback":"Not worth the price.",
+        "Rating":2,
+        "Date":1736640000000
+    },
+    {
+        "FeedbackID":9,
+        "CustomerID":109,
+        "Feedback":"Satisfied with my purchase.",
+        "Rating":4,
+        "Date":1736726400000
+    },
+    {
+        "FeedbackID":10,
+        "CustomerID":110,
+        "Feedback":"Will recommend to friends.",
+        "Rating":5,
+        "Date":1736812800000
+    }
+]

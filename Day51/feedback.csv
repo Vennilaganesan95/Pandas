@@ -1,0 +1,11 @@
+FeedbackID,CustomerID,Feedback,Rating,Date
+1,101,"Great product, very satisfied!",5,2025-01-05
+2,102,"Delivery was late, disappointed.",2,2025-01-06
+3,103,Excellent customer support.,5,2025-01-07
+4,104,Product quality not as expected.,3,2025-01-08
+5,105,Fast shipping and good packaging.,4,2025-01-09
+6,106,The item arrived damaged.,1,2025-01-10
+7,107,Amazing experience!,5,2025-01-11
+8,108,Not worth the price.,2,2025-01-12
+9,109,Satisfied with my purchase.,4,2025-01-13
+10,110,Will recommend to friends.,5,2025-01-14

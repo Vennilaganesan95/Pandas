@@ -1,0 +1,6 @@
+StudentID,Name,Department,CourseID,CourseName
+1,Alice,Computer Science,101,Data Structures
+2,Bob,Physics,102,Quantum Mechanics
+3,Charlie,Mathematics,103,Calculus
+4,David,Computer Science,101,Algorithms
+5,Eva,Biology,104,Genetics

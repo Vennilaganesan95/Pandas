@@ -1,0 +1,72 @@
+[
+    {
+        "EmpID":1,
+        "Name":"John Smith",
+        "Department":"HR",
+        "Salary":55000,
+        "Experience":5
+    },
+    {
+        "EmpID":2,
+        "Name":"Sarah Lee",
+        "Department":"IT",
+        "Salary":72000,
+        "Experience":7
+    },
+    {
+        "EmpID":3,
+        "Name":"Michael Brown",
+        "Department":"Finance",
+        "Salary":68000,
+        "Experience":6
+    },
+    {
+        "EmpID":4,
+        "Name":"Linda Taylor",
+        "Department":"Marketing",
+        "Salary":62000,
+        "Experience":4
+    },
+    {
+        "EmpID":5,
+        "Name":"David Wilson",
+        "Department":"IT",
+        "Salary":80000,
+        "Experience":10
+    },
+    {
+        "EmpID":6,
+        "Name":"Emma Davis",
+        "Department":"Finance",
+        "Salary":75000,
+        "Experience":9
+    },
+    {
+        "EmpID":7,
+        "Name":"James Miller",
+        "Department":"HR",
+        "Salary":50000,
+        "Experience":3
+    },
+    {
+        "EmpID":8,
+        "Name":"Sophia Johnson",
+        "Department":"Marketing",
+        "Salary":64000,
+        "Experience":5
+    },
+    {
+        "EmpID":9,
+        "Name":"Daniel Garcia",
+        "Department":"IT",
+        "Salary":90000,
+        "Experience":12
+    },
+    {
+        "EmpID":10,
+        "Name":"Olivia Martinez",
+        "Department":"Finance",
+        "Salary":71000,
+        "Experience":8
+    }
+]

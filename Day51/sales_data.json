@@ -1,0 +1,37 @@
+[
+    {
+        "OrderID":101,
+        "Product":"Laptop",
+        "Category":"Electronics",
+        "Price":900,
+        "Quantity":1
+    },
+    {
+        "OrderID":102,
+        "Product":"Shoes",
+        "Category":"Fashion",
+        "Price":120,
+        "Quantity":2
+    },
+    {
+        "OrderID":103,
+        "Product":"Book",
+        "Category":"Books",
+        "Price":30,
+        "Quantity":3
+    },
+    {
+        "OrderID":104,
+        "Product":"Smartphone",
+        "Category":"Electronics",
+        "Price":600,
+        "Quantity":1
+    },
+    {
+        "OrderID":105,
+        "Product":"Jeans",
+        "Category":"Fashion",
+        "Price":80,
+        "Quantity":4
+    }
+]

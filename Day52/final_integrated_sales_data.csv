@@ -1,0 +1,8 @@
+CustomerID,OrderID,Product,PurchaseAmount,Name,Email,Location,ProductID,Category,Price
+101,201,Laptop,1200,Alice,alice@example.com,New York,1,Electronics,1200
+102,202,Smartphone,800,Bob,bob@example.com,Los Angeles,2,Electronics,800
+103,203,Headphones,150,Charlie,charlie@example.com,Chicago,3,Electronics,150
+104,204,Monitor,300,David,david@example.com,Houston,4,Electronics,300
+105,205,Keyboard,100,Eva,eva@example.com,Phoenix,5,Electronics,100
+101,206,Mouse,50,Alice,alice@example.com,New York,6,Electronics,50
+103,207,Tablet,400,Charlie,charlie@example.com,Chicago,7,Electronics,400
