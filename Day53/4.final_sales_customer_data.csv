@@ -1,0 +1,5 @@
+OrderID,CustomerID,ProductID,Product_Purchase,Amount,Name,Email,Location,Product_Product,Category,Price
+101,1,201,Laptop,1200,Alice,alice@mail.com,NY,Laptop,Electronics,1000
+102,2,202,Mobile,800,Bob,bob@mail.com,LA,Mobile,Electronics,700
+103,1,203,Tablet,600,Alice,alice@mail.com,NY,Tablet,Electronics,550
+104,3,201,Laptop,1200,Charlie,charlie@mail.com,SF,Laptop,Electronics,1000

@@ -1,0 +1,6 @@
+StudentID,Name,Department,CourseID,CourseName
+1,Alice,Computer Science,101.0,Python
+2,Bob,Physics,102.0,Quantum Mechanics
+2,Bob,Physics,103.0,Data Science
+3,Charlie,Mathematics,101.0,Python
+4,David,Computer Science,0.0,Not Enrolled
